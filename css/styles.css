@@ -19,6 +19,12 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
 h3 {
     font-family: 'Montserrat';
     font-weight: 900;
@@ -90,3 +96,19 @@ p {
 
 }
 
+
+/* Testimonials Section */
+
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+    font-family: 'Montserrat';
+    font-weight: 800;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.testimonial-image {
+    border-radius: 50%;
+    width: 10%;
+}
